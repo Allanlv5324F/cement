@@ -1,0 +1,55 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+line-height: 1;
+font-size: 18px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+border-radius: 20px;
+}
+
+#status , #detect{
+font-size: 18px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: #333 10px 10px 10px;
+    background-color: #333;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: medium;
+}
+
+p{
+    font-size: small;
+    color: black;
+}
+
+h2{
+    font-family: monospace;
+}
+
+button,h2{
+    font-weight: bold;
+    font-family: monospace;
+}
+
+input{
+    border: solid black 3px;
+    border-radius: 20px;
+    color: white;
+    width: 30%;
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+    color: black;
+}
+
